@@ -199,4 +199,8 @@ tr{
     .CTA-box button{
         width: 80%;
     }
+
+    .Content h3{
+        line-height: 1;
+    }
 }
